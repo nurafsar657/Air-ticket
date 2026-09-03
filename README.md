@@ -26,7 +26,16 @@ This project serves as an intuitive digital form for flight reservations. It str
 ---
 
 ## 📦 Dependencies
-This project relies on **Tailwind CSS** delivered via CDN (no installation or build steps required):
+This project relies on Tailwind CSS delivered via CDN (no installation or build steps required):
 
-```html
-<script src="[https://cdn.tailwindcss.com](https://cdn.tailwindcss.com)"></script>
+`https://cdn.tailwindcss.com`
+
+---
+
+## 🚀 How to Run Locally
+
+Follow these steps to set up and view the project on your machine:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/nurafsar657/Air-ticket.git](https://github.com/nurafsar657/Air-ticket.git)
